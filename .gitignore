@@ -1,0 +1,7 @@
+# IntelliJ project files
+.idea/
+
+# Dependency directories
+node_modules/
+
+yarn.lock
